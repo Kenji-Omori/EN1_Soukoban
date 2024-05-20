@@ -475,6 +475,7 @@ MonoBehaviour:
   playerPrefab: {fileID: 7665474583684878716, guid: 349b3c236fb06a34dab7fae2ee230d54, type: 3}
   boxPrefab: {fileID: 8814774855310783477, guid: 8df224a97112dea4cafc8a4db91fd267, type: 3}
   clearText: {fileID: 802570176}
+  particlePrefab: {fileID: 3935246896492108436, guid: 7cde93a8fdd39184b89392388922f87b, type: 3}
 --- !u!4 &1245651635
 Transform:
   m_ObjectHideFlags: 0
